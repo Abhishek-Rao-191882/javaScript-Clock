@@ -1,4 +1,4 @@
-// Code By Webdevtrick ( https://webdevtrick.com )
+
 (() => { 
 
     const secondline = document.querySelector('.line-second');
