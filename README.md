@@ -1,1 +1,1 @@
-# first-
+# Simple digital clock using JavaScript
